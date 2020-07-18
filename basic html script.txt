@@ -1,0 +1,8 @@
+nano index.html
+<html>
+<head>
+<body>
+<hi>hi this is sainath from 2</hi>
+</body>
+</head>
+</html>
